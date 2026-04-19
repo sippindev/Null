@@ -1,0 +1,10 @@
+customtkinter>=5.2.2
+mnemonic>=0.20
+ecdsa>=0.19
+base58>=2.1
+web3>=6.0.0
+solders>=0.21.0
+qrcode[pil]>=7.4
+Pillow>=10.0
+cryptography>=42.0
+requests[socks]>=2.31.0
